@@ -205,7 +205,7 @@ df_albumTracks["Title"] = df_albumTracks["Title"].str.strip('"')
 
 conn = pyodbc.connect(
     "DRIVER={SQL Server};"
-    f"{serverName};"
+    f"SERVER={serverName};"
     "DATABASE=SpotifyDataBase;"
     f"UID={dbUser};"
     f"PWD={dbPassword}"
