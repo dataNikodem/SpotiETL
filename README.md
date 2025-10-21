@@ -1,8 +1,6 @@
 # SpotiETL
 Fetching data from Spotify REST API Transform and Load
 
-# Data Pipeline Project: REST API → MS SQL Data Warehouse → Power BI Dashboard
-
 ## Overview
 An educational project aimed at practicing and enhancing my skills for self-development.  
 The main focus areas are:
