@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Visual Studio / SSIS ignore
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.ispac
+*.bak
+*.log
